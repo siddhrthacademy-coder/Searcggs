@@ -1,0 +1,6 @@
+{
+  "name": "Searchly - Next-Gen Search & AI Assistant",
+  "description": "Google-inspired search engine with AI-powered direct answers, voice search, multilingual Hindi-English support, and founder dashboard by Siddharth Academy.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
